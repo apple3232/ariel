@@ -1,0 +1,26 @@
+\documentclass[11pt]{article} 
+%\usepackage[iso-8859-7]{inputenc}
+%\usepackage[english,greek]{babel}
+\usepackage{amssymb}
+\usepackage{verbatim}
+\usepackage{graphicx}
+\usepackage[pdftex]{hyperref}
+\usepackage{multicol}
+ 
+
+
+\title{ Bypassing }
+\author{¡ÒÈÛÙÂﬂ‰ÁÚ ¬·ÛÈÎ‹ÍÁÚ (03116142-«ÃÃ’)}
+\date{M·ÈÔÚ 2018}
+
+\begin{document}
+\maketitle
+\begin{multicols}{2}
+
+Hello, here is some text without a meaning.  This text should show what 
+a printed text will look like at this place.
+If you read this text, you will get no information.  Really?  Is there 
+no information?  Is there...
+
+\end{multicols}
+\end{document}
